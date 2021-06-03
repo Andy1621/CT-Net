@@ -1,4 +1,4 @@
-# [ICLR20201] CT-Net: Channel Tensorization Network for Video Classification
+# [ICLR2021] CT-Net: Channel Tensorization Network for Video Classification
 
 ```
 @inproceedings{
