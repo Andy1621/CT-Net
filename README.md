@@ -10,6 +10,9 @@ year={2021},
 url={https://openreview.net/forum?id=UoaQUQREMOs}
 }
 ```
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ct-net-channel-tensorization-network-for-1/action-recognition-in-videos-on-something-1)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something-1?p=ct-net-channel-tensorization-network-for-1)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ct-net-channel-tensorization-network-for-1/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=ct-net-channel-tensorization-network-for-1)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ct-net-channel-tensorization-network-for-1/action-classification-on-kinetics-400)](https://paperswithcode.com/sota/action-classification-on-kinetics-400?p=ct-net-channel-tensorization-network-for-1)
 
 ## Overview
 **[2021/6/3]** We release the PyTorch code of  [CT-Net](https://openreview.net/forum?id=UoaQUQREMOs). More details and models will be available.
