@@ -22,7 +22,7 @@ python3 main.py something RGB \
      --arch resnet50 --model CT_Net --num-segments 8 \
      --gd 20 --lr 0.02 --unfrozen-epoch 0 --lr-type cos \
      --warmup 10 --tune-epoch 10 --tune-lr 0.02 --epochs 45 \
-     --batch-size 8 -j 24 --dropout 0.3 --consensus-type=avg \
+     --batch-size 64 -j 24 --dropout 0.3 --consensus-type=avg \
      --npb --num-total 7 --full-res --gpus 0 1 2 3 4 5 6 7 --suffix 2021
      
 ########################################################DDP########################################################
