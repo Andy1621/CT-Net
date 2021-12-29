@@ -20,7 +20,9 @@ url={https://openreview.net/forum?id=UoaQUQREMOs}
 
 
 ## Model Zoo
-More models will be released in a month...
+All models can be trained on a single machine (e.g., 8 1080Ti). Some tricks will help you save GPU memory, suck as [mixed precision](https://pytorch.org/docs/stable/notes/amp_examples.html) or [`torch.utils.checkpoint`](https://pytorch.org/docs/stable/checkpoint.html).
+
+Some models are lost after hacking by mining malware. If there is any problem about training model, please create an issue or send me an [email](kc.li@siat.ac.cn).
 
 Now we release the model for visualization, please download it from [here](https://pan.baidu.com/s/1DbFk9hud2ELnLa78RxqEkg) and put it in `./model`.  **(passward: t3to)**
 
