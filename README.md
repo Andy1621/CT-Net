@@ -24,7 +24,7 @@ All models can be trained on a single machine (e.g., 8 1080Ti). Some tricks will
 
 Some models are lost after hacking by mining malware. If there is any problem about training model, please create an issue or send me an [email](kc.li@siat.ac.cn).
 
-Now we release the model for visualization, please download it from [here](https://pan.baidu.com/s/1DbFk9hud2ELnLa78RxqEkg) and put it in `./model`.  **(passward: t3to)**
+Now we release the model for visualization (Something-Something V1), please download it from [here](https://pan.baidu.com/s/1DbFk9hud2ELnLa78RxqEkg) and put it in `./model`.  **(passward: t3to)**
 
 ## Install
 
